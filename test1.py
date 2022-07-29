@@ -37,8 +37,8 @@ app.layout = html.Div(children=[
                 },
 
                 {
-                    'x':[0,1,2,3,4,5,6],
-                    'y':[0,1,4,9,16,25,36],
+                    'x':[0,1,2,3,4,5,7],
+                    'y':[0,1,4,9,16,25,49],
                     'type':'line+markers',
                     'name':'Parábola'
                 }
