@@ -14,6 +14,7 @@ server=app.server
 
 app.layout = html.Div(children=[
 
+
     html.H1(
         children='Apresentação da biblioteca Dash!',
         style={'textAlign':'center'}
